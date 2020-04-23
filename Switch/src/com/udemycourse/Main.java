@@ -3,6 +3,9 @@ package com.udemycourse;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(LeapYear.isLeapYear(20));
+	// write your code here
+
+        SwitchStatement.alphabet2('a');
+
     }
 }
