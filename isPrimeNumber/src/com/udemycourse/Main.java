@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         // write your code here
         int counter = 0;
+       int[] num = {1,2};
         for (int i = 10; i < 50; i++) {
 
                 if ((isPrimeNumber.isprimenumber(i))) {
